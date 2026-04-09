@@ -1,7 +1,5 @@
 # Coffee_chain-Excel-sales-report
-<p align="center">
-  <img src="dashboard.png" width="800" title="Coffee Chain Sales Trend Dashboard">
-</p>
+![Coffee Chain Dashboard](Snapshot%20of%20the%20Dahboard.png))
 ☕ Project Overview
 This project is an interactive Excel dashboard designed to analyze the sales and profit performance of a multi-state coffee chain. It provides a comprehensive view of financial KPIs, product trends, and regional performance, allowing stakeholders to make data-driven decisions regarding inventory and expansion.
 
